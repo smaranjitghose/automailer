@@ -24,7 +24,7 @@ A crisp python script to send emails using [SMTP](https://tools.ietf.org/html/rf
 
 ## Suggestions:
 - Don't save the script as ```email.py```
-- Make sure your Google Account has [Allow Less Secure App Access enabled] (https://myaccount.google.com/lesssecureapps)
+- Make sure your Google Account has [Allow Less Secure App Access](https://myaccount.google.com/lesssecureapps) enabled
 - At times setting up the SSL might fall into timeout. Don't panic. Just reconnect or connect to a new network and try
 - If SSL is still timed out and its urgent, simply use TTL for connection (Instructions given at the end of the script)
 
@@ -34,7 +34,7 @@ A crisp python script to send emails using [SMTP](https://tools.ietf.org/html/rf
 - Modify the script to send both PDFs and Images simultaneously as attachments
 - Modify the script to read the subject from user
 - Modify the script to read the content from  a content.txt file
-- Create GUI using Tkinter or PyQt for this
+- Create GUI for the script using [Tkinter](https://docs.python.org/3.8/library/tkinter.html), [Kivy](https://kivy.org/#home) or [PyQt](https://www.riverbankcomputing.com/static/Docs/PyQt5)
   
 
  
