@@ -1,6 +1,7 @@
 import os
 import smtplib  # This module is defines an SMTP client session object that can be used to send mail 
 import imghdr #This module determines the type of image contained in a file
+from email.message import EmailMessage
 
 #Grab the credentials from Environment Variables locally stored on your system
 Email_id = os.environ.get('EMAIL_ID') #Sender's email address obtained 
