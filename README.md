@@ -1,4 +1,4 @@
-# PyMailer 
+# PyMailer 📧
 A crisp python script to send emails using [SMTP](https://tools.ietf.org/html/rfc821.html)
 
 ## Usage: 
@@ -24,7 +24,7 @@ A crisp python script to send emails using [SMTP](https://tools.ietf.org/html/rf
 - Execute the command: ```python PyMailer.py```
 - Bam! your email is sent within the blink of an eye 
 
-## Suggestions:
+## Suggestions: ⚠
 - Don't save the script as ```email.py```
 - Make sure your Google Account has [Allow Less Secure App Access](https://myaccount.google.com/lesssecureapps) enabled
 - At times setting up the SSL might fall into timeout. Don't panic. Just reconnect or connect to a new network and try
