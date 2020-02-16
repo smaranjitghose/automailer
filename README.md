@@ -13,7 +13,9 @@ A crisp python script to send emails using [SMTP](https://tools.ietf.org/html/rf
   
   - Set ```Test_Email_id``` to the reciever's email address
   - Set ```msg['Subject']``` to the Subject of your Email
+  - Set ```msg.set_content=()``` to the body of your Email.(You even use an HTML format for this)
   - Set ```files =``` to the list of file names(either images or pds) to be sent as attachment
+  
  
    Make sure the files to be sent are in the same directory as the script otherwise specify entire path
   - For sending PDFs instead  as attachments change: ```maintype = 'application' ``` and ```sub_type = 'octet_stream'```
