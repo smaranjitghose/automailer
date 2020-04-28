@@ -1,4 +1,4 @@
-# PyMailer 📧
+# AutoMailer 📧
 A crisp python script to send emails using [SMTP](https://tools.ietf.org/html/rfc821.html)
 
 ## Usage: 
