@@ -127,7 +127,7 @@ git push -u origin Branch_Name
 ```
 
 Finally, go to your repository in browser and click on `compare and pull requests`.
-Use our [pull request template format]( https://github.com/smaranjitghose/automailer/blob/master/.github/pull_request_template.md)
+Use our [pull request template format](https://github.com/smaranjitghose/automailer/blob/master/.GitHub/pull_request_template.md)
 Then add a title and description to your pull request that explains your precious effort. 
 
 Sit and relax till we review your PR, you've made your contribution to our project.
