@@ -6,7 +6,7 @@ from email.message import EmailMessage
 #Grab the credentials from Environment Variables locally stored on your system
 Email_id = os.environ.get('EMAIL_ID') #Sender's email address obtained 
 Email_password = os.environ.get('EMAIL_PASSWORD') #Sender's password
-Test_email_id = os.environ.get('TEST_EMAIL_PASSWORD') #Receiver's password
+Test_email_id = input("Enter Reciever Email") #Receiver's email
 
 #For security purpose it is always recommended to grab the sender's email address and password from the system 
 #However you can simply put in the creditials as strings to the variables if needed
