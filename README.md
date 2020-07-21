@@ -1,11 +1,11 @@
 <h1 align ='center'>AutoMailer 📧</h1>
 
 A crisp python script to send emails using [SMTP](https://tools.ietf.org/html/rfc821.html)
-<p align = 'center'><img src = "https://media.giphy.com/media/Qw4X3Fsf0N1VqFFUiBi/giphy.gif" width = 50%></p>
+<p align = 'center'><img src = "https://media.giphy.com/media/Qw4X3Fsf0N1VqFFUiBi/giphy.gif" width = 40%></p>
 
 <h2 align ='center'>Usage</h2>
 
-<p align = 'center'><img src = "https://media.giphy.com/media/3Xw6TZ8xgjqojOwlvr/giphy.gif" width = 70%></p>
+<p align = 'center'><img src = "https://media.giphy.com/media/3Xw6TZ8xgjqojOwlvr/giphy.gif" width = 50%></p>
 
 Here you go:
 
@@ -38,7 +38,7 @@ Here you go:
 
 
 <h2 align ='center'>Suggestions: ⚠</h2>
-<p align = 'center'><img src = "https://media.giphy.com/media/8qJov1TOy2hI4/giphy.gif" width = 70%></p>
+<p align = 'center'><img src = "https://media.giphy.com/media/8qJov1TOy2hI4/giphy.gif" width = 30%></p>
 
 - Don't save the script as ```email.py```
 - Make sure your Google Account has [Allow Less Secure App Access](https://myaccount.google.com/lesssecureapps) enabled
